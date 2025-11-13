@@ -56,6 +56,6 @@ dotnet restore
 dotnet run
 
 # Entre no Swagger pelo navegador
-https://localhost:5001/swagger
+http://localhost:5234/swagger/index.html
 
 
